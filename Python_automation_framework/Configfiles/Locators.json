@@ -1,0 +1,11 @@
+{
+  "xpath_for_username" : "//input[@name='username']",
+  "xpath_for_password" : "//input[@name='password']",
+  "xpath_for_submit" : "//button[@type='submit']",
+  "xpath_for_MyInfo" :"(//*[contains(text(),'My Info')])[1]",
+  "xpath_for_name_assertion" :"//span[@class='info ng-star-inserted' and text() = '%s ']"
+
+
+
+
+}
